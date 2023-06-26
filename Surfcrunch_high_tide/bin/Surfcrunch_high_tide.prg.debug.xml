@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\FYL\eclipse-workspace\Surfcrunch_high_tide\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="3" lineNum="13" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="3" lineNum="14" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="3" lineNum="15" pc="268435482" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="4" lineNum="18" pc="268435493" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="4" lineNum="19" pc="268435497" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="4" lineNum="20" pc="268435514" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="4" lineNum="21" pc="268435553" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="4" lineNum="31" pc="268435577" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="4" lineNum="32" pc="268435601" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="4" lineNum="34" pc="268435614" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="4" lineNum="35" pc="268435635" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="4" lineNum="40" pc="268435687" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="4" lineNum="41" pc="268435708" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="4" lineNum="49" pc="268435764" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="4" lineNum="50" pc="268435801" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="4" lineNum="55" pc="268435853" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="4" lineNum="56" pc="268435874" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="5" lineNum="70" pc="268435931" symbol="webOnReceive"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="5" lineNum="71" pc="268435935" symbol="webOnReceive"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="5" lineNum="72" pc="268435946" symbol="webOnReceive"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="5" lineNum="77" pc="268435967" symbol="webOnReceive"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideBg.mc" id="5" lineNum="82" pc="268436000" symbol="webOnReceive"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="7" lineNum="35" pc="268437144" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="7" lineNum="38" pc="268437148" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="7" lineNum="52" pc="268437166" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="7" lineNum="53" pc="268437200" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="7" lineNum="57" pc="268437224" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="7" lineNum="58" pc="268437234" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="7" lineNum="60" pc="268437268" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="8" lineNum="67" pc="268437292" symbol="onLayout"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="8" lineNum="69" pc="268437296" symbol="onLayout"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="8" lineNum="70" pc="268437315" symbol="onLayout"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="9" lineNum="88" pc="268437335" symbol="onShow"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="92" pc="268437340" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="93" pc="268437344" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="100" pc="268437361" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="128" pc="268437395" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="129" pc="268437417" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="131" pc="268437433" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="132" pc="268437441" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="136" pc="268437446" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="138" pc="268437464" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="141" pc="268437497" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="143" pc="268437515" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="145" pc="268437538" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="151" pc="268437565" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="152" pc="268437579" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="153" pc="268437598" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="154" pc="268437633" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="163" pc="268437700" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="164" pc="268437732" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="165" pc="268437785" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="166" pc="268437817" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="175" pc="268437861" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="178" pc="268437889" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="181" pc="268437915" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="10" lineNum="183" pc="268437920" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="11" lineNum="194" pc="268437974" symbol="onHide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="12" lineNum="198" pc="268437979" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="13" lineNum="203" pc="268437984" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="13" lineNum="205" pc="268437988" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="14" lineNum="208" pc="268438001" symbol="drawDigitalTime"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="14" lineNum="210" pc="268438005" symbol="drawDigitalTime"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="14" lineNum="211" pc="268438015" symbol="drawDigitalTime"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="14" lineNum="212" pc="268438022" symbol="drawDigitalTime"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="14" lineNum="213" pc="268438036" symbol="drawDigitalTime"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="14" lineNum="222" pc="268438055" symbol="drawDigitalTime"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="14" lineNum="223" pc="268438147" symbol="drawDigitalTime"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="14" lineNum="224" pc="268438173" symbol="drawDigitalTime"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="15" lineNum="260" pc="268438252" symbol="drawDate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="15" lineNum="262" pc="268438256" symbol="drawDate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="15" lineNum="263" pc="268438273" symbol="drawDate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="15" lineNum="264" pc="268438304" symbol="drawDate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="15" lineNum="265" pc="268438335" symbol="drawDate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="15" lineNum="266" pc="268438364" symbol="drawDate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="15" lineNum="268" pc="268438512" symbol="drawDate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="15" lineNum="269" pc="268438538" symbol="drawDate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="303" pc="268438608" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="305" pc="268438612" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="306" pc="268438623" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="312" pc="268438640" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="315" pc="268438666" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="316" pc="268438686" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="317" pc="268438706" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="324" pc="268438726" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="325" pc="268438737" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="329" pc="268438754" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="340" pc="268438780" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="341" pc="268438797" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="344" pc="268438833" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="346" pc="268438938" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="348" pc="268438974" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="351" pc="268439079" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="354" pc="268439089" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="355" pc="268439125" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="356" pc="268439162" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="357" pc="268439198" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="359" pc="268439241" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="360" pc="268439277" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="361" pc="268439302" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="362" pc="268439327" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="364" pc="268439361" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="365" pc="268439397" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="366" pc="268439422" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="367" pc="268439447" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="370" pc="268439481" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="371" pc="268439494" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="372" pc="268439510" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="373" pc="268439546" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="375" pc="268439572" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="391" pc="268439608" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="393" pc="268439618" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="411" pc="268442410" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="434" pc="268445202" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="435" pc="268445222" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="437" pc="268445294" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="439" pc="268445312" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="441" pc="268445328" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="443" pc="268445356" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="445" pc="268445385" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="446" pc="268445418" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="447" pc="268445460" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="449" pc="268445482" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="450" pc="268445509" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="451" pc="268445536" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="454" pc="268445563" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="455" pc="268445591" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="457" pc="268445619" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="458" pc="268445655" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="465" pc="268445721" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="468" pc="268445745" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="469" pc="268445749" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="471" pc="268445756" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="472" pc="268445780" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="475" pc="268445784" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="476" pc="268445808" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="477" pc="268445827" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="479" pc="268445859" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="480" pc="268445895" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="482" pc="268445909" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="483" pc="268445933" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="484" pc="268445952" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="486" pc="268445984" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="487" pc="268446020" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="488" pc="268446088" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="489" pc="268446156" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="491" pc="268446224" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="496" pc="268446243" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="497" pc="268446253" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="498" pc="268446266" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="500" pc="268446281" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="502" pc="268446297" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="504" pc="268446305" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="505" pc="268446324" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="507" pc="268446335" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="509" pc="268446348" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="510" pc="268446367" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="511" pc="268446380" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="512" pc="268446387" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="514" pc="268446419" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="516" pc="268446429" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="517" pc="268446502" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="518" pc="268446556" symbol="drawTide"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideView.mc" id="16" lineNum="18" pc="268446644" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="18" lineNum="18" pc="268436019" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="18" lineNum="19" pc="268436023" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="18" lineNum="20" pc="268436041" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="18" lineNum="21" pc="268436058" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="18" lineNum="23" pc="268436097" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="18" lineNum="24" pc="268436121" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="18" lineNum="25" pc="268436155" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="18" lineNum="26" pc="268436173" symbol="initialize"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="19" lineNum="30" pc="268436198" symbol="onStart"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="19" lineNum="31" pc="268436202" symbol="onStart"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="19" lineNum="32" pc="268436226" symbol="onStart"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="19" lineNum="33" pc="268436260" symbol="onStart"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="19" lineNum="34" pc="268436278" symbol="onStart"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="20" lineNum="38" pc="268436300" symbol="onStop"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="20" lineNum="40" pc="268436304" symbol="onStop"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="20" lineNum="41" pc="268436316" symbol="onStop"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="20" lineNum="42" pc="268436333" symbol="onStop"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="20" lineNum="43" pc="268436372" symbol="onStop"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="20" lineNum="44" pc="268436411" symbol="onStop"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="20" lineNum="45" pc="268436452" symbol="onStop"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="20" lineNum="48" pc="268436496" symbol="onStop"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="21" lineNum="53" pc="268436518" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="21" lineNum="54" pc="268436522" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="21" lineNum="56" pc="268436543" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="21" lineNum="57" pc="268436566" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="21" lineNum="58" pc="268436576" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="21" lineNum="60" pc="268436628" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="21" lineNum="62" pc="268436649" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="22" lineNum="65" pc="268436687" symbol="onBackgroundData"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="22" lineNum="66" pc="268436691" symbol="onBackgroundData"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="22" lineNum="67" pc="268436710" symbol="onBackgroundData"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="22" lineNum="68" pc="268436727" symbol="onBackgroundData"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="22" lineNum="69" pc="268436766" symbol="onBackgroundData"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="22" lineNum="70" pc="268436814" symbol="onBackgroundData"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="22" lineNum="71" pc="268436824" symbol="onBackgroundData"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="22" lineNum="72" pc="268436865" symbol="onBackgroundData"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="23" lineNum="75" pc="268436882" symbol="getServiceDelegate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="23" lineNum="76" pc="268436886" symbol="getServiceDelegate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="23" lineNum="77" pc="268436903" symbol="getServiceDelegate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="23" lineNum="78" pc="268436942" symbol="getServiceDelegate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="23" lineNum="79" pc="268436966" symbol="getServiceDelegate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="24" lineNum="82" pc="268437004" symbol="onAppInstall"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="24" lineNum="83" pc="268437008" symbol="onAppInstall"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="25" lineNum="86" pc="268437030" symbol="onAppUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="25" lineNum="87" pc="268437034" symbol="onAppUpdate"/>
+        <entry filename="C:\\Users\\FYL\\eclipse-workspace\\Surfcrunch_high_tide\\source\\Surfcrunch_high_tideApp.mc" id="25" lineNum="88" pc="268437055" symbol="onAppUpdate"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="14" symbol="canDoBG"/>
+        <entry id="8390789" method="true" symbol="onAppUpdate"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="40" method="true" symbol="drawDate"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="25" symbol="ColorRed"/>
+        <entry field="true" id="16" symbol="OSCOUNTER"/>
+        <entry id="19" method="true" symbol="webOnReceive"/>
+        <entry field="true" id="15" symbol="inBackground"/>
+        <entry id="9" object="true" symbol="BgbgServiceDelegate"/>
+        <entry field="true" id="29" symbol="MilitaryFormatTitle"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="24" symbol="ColorBlue"/>
+        <entry field="true" id="17" symbol="OSDATA"/>
+        <entry field="true" id="32" symbol="AppName"/>
+        <entry id="8390788" method="true" symbol="onAppInstall"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="11" object="true" symbol="Surfcrunch_high_tideView"/>
+        <entry id="41" method="true" symbol="drawTide"/>
+        <entry id="8390147" object="true" symbol="ServiceDelegate"/>
+        <entry id="8390097" method="true" symbol="onPartialUpdate"/>
+        <entry field="true" id="33" symbol="fullScreenRefresh"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8390148" method="true" symbol="onTemporalEvent"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8390169" method="true" symbol="getServiceDelegate"/>
+        <entry id="21" module="true" symbol="Menus"/>
+        <entry field="true" id="28" symbol="ColorDarkGray"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="31" symbol="ColorWhite"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="30" symbol="ColorBlack"/>
+        <entry id="39" method="true" symbol="drawDigitalTime"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8390170" method="true" symbol="onBackgroundData"/>
+        <entry field="true" id="13" symbol="bgdata"/>
+        <entry id="8389844" symbol="responseType"/>
+        <entry id="8388786" method="true" symbol="method"/>
+        <entry field="true" id="38" symbol="tb_y"/>
+        <entry field="true" id="37" symbol="tb_x"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry field="true" id="8389401" symbol="is24Hour"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="12" symbol="counter"/>
+        <entry field="true" id="22" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="27" symbol="BackgroundColorTitle"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8390146" module="true" symbol="Background"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="10" symbol="partialUpdatesAllowed"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry field="true" id="23" symbol="ColorLightGray"/>
+        <entry id="8391701" method="true" symbol="setAntiAlias"/>
+        <entry field="true" id="34" symbol="background_color"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry field="true" id="35" symbol="width_screen"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="26" symbol="ForegroundColorTitle"/>
+        <entry id="18" object="true" symbol="Surfcrunch_high_tideApp"/>
+        <entry id="20" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="36" symbol="height_screen"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435761" name="webOptions" stackId="3" startPc="268435614"/>
+        <entry endPc="268435927" name="webOptions" stackId="4" startPc="268435801"/>
+        <entry endPc="268435930" name="now" stackId="1" startPc="268435497"/>
+        <entry endPc="268435930" name="ts" stackId="2" startPc="268435497"/>
+        <entry arg="true" endPc="268436019" name="responseCode" stackId="1" startPc="268435931"/>
+        <entry arg="true" endPc="268436019" name="data" stackId="2" startPc="268435931"/>
+        <entry endPc="268437291" name="bgdata" stackId="1" startPc="268437148"/>
+        <entry arg="true" endPc="268437335" name="dc" stackId="1" startPc="268437292"/>
+        <entry endPc="268437497" name="i" stackId="7" startPc="268437464"/>
+        <entry endPc="268437681" name="i" stackId="9" startPc="268437565"/>
+        <entry endPc="268437697" name="j" stackId="8" startPc="268437515"/>
+        <entry endPc="268437973" name="y_offset" stackId="5" startPc="268437344"/>
+        <entry endPc="268437973" name="x_offset" stackId="4" startPc="268437344"/>
+        <entry endPc="268437973" name="tideArray" stackId="6" startPc="268437344"/>
+        <entry endPc="268437973" name="clockTime" stackId="2" startPc="268437344"/>
+        <entry endPc="268437973" name="rawArray" stackId="3" startPc="268437344"/>
+        <entry arg="true" endPc="268437974" name="dc" stackId="1" startPc="268437340"/>
+        <entry endPc="268438251" name="hour" stackId="4" startPc="268438005"/>
+        <entry endPc="268438251" name="font" stackId="6" startPc="268438005"/>
+        <entry endPc="268438251" name="ampm" stackId="5" startPc="268438005"/>
+        <entry endPc="268438251" name="timeString" stackId="8" startPc="268438005"/>
+        <entry endPc="268438251" name="font_height" stackId="7" startPc="268438005"/>
+        <entry arg="true" endPc="268438252" name="dc" stackId="1" startPc="268438001"/>
+        <entry arg="true" endPc="268438252" name="clockTime" stackId="3" startPc="268438001"/>
+        <entry arg="true" endPc="268438252" name="text_color" stackId="2" startPc="268438001"/>
+        <entry endPc="268438607" name="dateStr" stackId="7" startPc="268438256"/>
+        <entry endPc="268438607" name="now" stackId="3" startPc="268438256"/>
+        <entry endPc="268438607" name="info_long" stackId="4" startPc="268438256"/>
+        <entry endPc="268438607" name="font_height" stackId="6" startPc="268438256"/>
+        <entry endPc="268438607" name="info" stackId="5" startPc="268438256"/>
+        <entry arg="true" endPc="268438608" name="dc" stackId="1" startPc="268438252"/>
+        <entry arg="true" endPc="268438608" name="text_color" stackId="2" startPc="268438252"/>
+        <entry endPc="268438938" name="i" stackId="9" startPc="268438833"/>
+        <entry endPc="268439079" name="i" stackId="10" startPc="268438974"/>
+        <entry endPc="268445859" name="i" stackId="37" startPc="268445808"/>
+        <entry endPc="268445984" name="i" stackId="38" startPc="268445933"/>
+        <entry endPc="268446227" name="swell_arrow_y" stackId="34" startPc="268445356"/>
+        <entry endPc="268446227" name="font_height" stackId="23" startPc="268445356"/>
+        <entry endPc="268446227" name="swellWindStr" stackId="25" startPc="268445356"/>
+        <entry endPc="268446227" name="fcStr" stackId="26" startPc="268445356"/>
+        <entry endPc="268446227" name="swell_arrow_x" stackId="33" startPc="268445356"/>
+        <entry endPc="268446227" name="swellWindWidth" stackId="29" startPc="268445356"/>
+        <entry endPc="268446227" name="swellArrowStart" stackId="30" startPc="268445356"/>
+        <entry endPc="268446227" name="swellWidth" stackId="28" startPc="268445356"/>
+        <entry endPc="268446227" name="wind_arrow_x" stackId="36" startPc="268445356"/>
+        <entry endPc="268446227" name="windArrowStart" stackId="31" startPc="268445356"/>
+        <entry endPc="268446227" name="wind_arrow_line" stackId="35" startPc="268445356"/>
+        <entry endPc="268446227" name="fullWidth" stackId="27" startPc="268445356"/>
+        <entry endPc="268446227" name="swell_arrow_poly" stackId="32" startPc="268445356"/>
+        <entry endPc="268446227" name="swellStr" stackId="24" startPc="268445356"/>
+        <entry endPc="268446230" name="x_fc" stackId="22" startPc="268445312"/>
+        <entry endPc="268446243" name="i" stackId="21" startPc="268445312"/>
+        <entry endPc="268446559" name="t" stackId="47" startPc="268446305"/>
+        <entry endPc="268446559" name="hrs" stackId="43" startPc="268446305"/>
+        <entry endPc="268446559" name="type" stackId="46" startPc="268446305"/>
+        <entry endPc="268446559" name="h" stackId="45" startPc="268446305"/>
+        <entry endPc="268446559" name="mins" stackId="44" startPc="268446305"/>
+        <entry endPc="268446562" name="x" stackId="42" startPc="268446281"/>
+        <entry endPc="268446575" name="i" stackId="41" startPc="268446281"/>
+        <entry endPc="268446575" name="mins" stackId="16" startPc="268438612"/>
+        <entry endPc="268446575" name="fc" stackId="18" startPc="268438612"/>
+        <entry endPc="268446575" name="astro" stackId="11" startPc="268438612"/>
+        <entry endPc="268446575" name="arrow_polys" stackId="19" startPc="268438612"/>
+        <entry endPc="268446575" name="twilight_l" stackId="13" startPc="268438612"/>
+        <entry endPc="268446575" name="daylight_l" stackId="15" startPc="268438612"/>
+        <entry endPc="268446575" name="x_line" stackId="17" startPc="268438612"/>
+        <entry endPc="268446575" name="arrow_lines" stackId="20" startPc="268438612"/>
+        <entry endPc="268446575" name="extremes_len" stackId="40" startPc="268438612"/>
+        <entry endPc="268446575" name="extremes" stackId="39" startPc="268438612"/>
+        <entry endPc="268446575" name="twilight_x" stackId="12" startPc="268438612"/>
+        <entry endPc="268446575" name="daylight_x" stackId="14" startPc="268438612"/>
+        <entry arg="true" endPc="268446576" name="y_offset" stackId="7" startPc="268438608"/>
+        <entry arg="true" endPc="268446576" name="hour" stackId="5" startPc="268438608"/>
+        <entry arg="true" endPc="268446576" name="dc" stackId="1" startPc="268438608"/>
+        <entry arg="true" endPc="268446576" name="x_offset" stackId="8" startPc="268438608"/>
+        <entry arg="true" endPc="268446576" name="min" stackId="6" startPc="268438608"/>
+        <entry arg="true" endPc="268446576" name="tideArray" stackId="4" startPc="268438608"/>
+        <entry arg="true" endPc="268446576" name="tideColor" stackId="2" startPc="268438608"/>
+        <entry arg="true" endPc="268446576" name="rawArray" stackId="3" startPc="268438608"/>
+        <entry endPc="268436197" name="bgdata" stackId="3" startPc="268436023"/>
+        <entry endPc="268436197" name="now" stackId="1" startPc="268436023"/>
+        <entry endPc="268436197" name="ts" stackId="2" startPc="268436023"/>
+        <entry endPc="268436299" name="bgdata" stackId="2" startPc="268436202"/>
+        <entry arg="true" endPc="268436300" name="state" stackId="1" startPc="268436198"/>
+        <entry endPc="268436493" name="now" stackId="2" startPc="268436316"/>
+        <entry endPc="268436493" name="ts" stackId="3" startPc="268436316"/>
+        <entry arg="true" endPc="268436518" name="state" stackId="1" startPc="268436300"/>
+        <entry endPc="268436881" name="now" stackId="2" startPc="268436691"/>
+        <entry endPc="268436881" name="ts" stackId="3" startPc="268436691"/>
+        <entry arg="true" endPc="268436882" name="data" stackId="1" startPc="268436687"/>
+        <entry endPc="268437003" name="now" stackId="1" startPc="268436886"/>
+        <entry endPc="268437003" name="ts" stackId="2" startPc="268436886"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="214" parentId="globals" symbolId="Surfcrunch_high_tideApp" type="class"/>
+        <dataEntry offset="317" parentId="globals" symbolId="BgbgServiceDelegate" type="class"/>
+        <dataEntry offset="1042" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="1121" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="1160" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="1191" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="1222" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="1253" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="1284" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="1395" parentId="globals" symbolId="Surfcrunch_high_tideView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="BgbgServiceDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTemporalEvent" parent="BgbgServiceDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="webOnReceive" parent="BgbgServiceDelegate">
+            <param id="responseCode"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Surfcrunch_high_tideView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="Surfcrunch_high_tideView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="Surfcrunch_high_tideView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="Surfcrunch_high_tideView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="Surfcrunch_high_tideView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="Surfcrunch_high_tideView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="Surfcrunch_high_tideView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDigitalTime" parent="Surfcrunch_high_tideView">
+            <param id="dc"/>
+            <param id="text_color"/>
+            <param id="clockTime"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDate" parent="Surfcrunch_high_tideView">
+            <param id="dc"/>
+            <param id="text_color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawTide" parent="Surfcrunch_high_tideView">
+            <param id="dc"/>
+            <param id="tideColor"/>
+            <param id="rawArray"/>
+            <param id="tideArray"/>
+            <param id="hour"/>
+            <param id="min"/>
+            <param id="y_offset"/>
+            <param id="x_offset"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Surfcrunch_high_tideApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="Surfcrunch_high_tideApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="Surfcrunch_high_tideApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="Surfcrunch_high_tideApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBackgroundData" parent="Surfcrunch_high_tideApp">
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getServiceDelegate" parent="Surfcrunch_high_tideApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onAppInstall" parent="Surfcrunch_high_tideApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onAppUpdate" parent="Surfcrunch_high_tideApp">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
